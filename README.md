@@ -29,6 +29,10 @@ npm install angularx-qrcode@14.0.0 --save
 
 2.	Para verificar que el storage está funcionando correctamente, se debe ingresar en inspeccionar, luego en aplicación, y en el apartado lateral izquierdo, donde está el recuadro de almacenamiento, en indexedDB debe aparecer un arreglo con el usuario registrado previamente.
 
+# Notas adicionales ( TESTING ) :
+
+Los testing se encuentran en la carpeta DOCENTE bajo el nombre de E2E.
+
 # Notas adicionales ( APKS ) :
 
 El APK DOCENTE contiene la API QR.
